@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mandebo
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently taking Computer Science at UMS (University Malaysia Sabah)
+-  Hi, I’m Muhammad Aiman
+-  I’m currently taking Computer Science at UMS (University Malaysia Sabah)
+-  Passionate in web and mobile development
